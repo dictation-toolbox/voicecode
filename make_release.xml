@@ -1,0 +1,11 @@
+<project name="VCode" default="release" basedir=".">
+	<target name="release">
+		<tstamp/>
+	    <property name="dist" value="./Dist"/>
+        <delete dir="${dist}"/>
+        <mkdir dir="${dist}"/>
+		<zip destfile="${dist}/vcode-r${DSTAMP}.zip" 
+ 	  	basedir="." 
+        excludes="**/CVS, **/*.pyc, **/user_config.py, **/*~" update="false"/> 
+	</target>
+</project>

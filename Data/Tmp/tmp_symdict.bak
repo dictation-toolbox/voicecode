@@ -1,0 +1,6218 @@
+(dp1
+S'pronunciations'
+p2
+(dp3
+S'py'
+p4
+(lp5
+S'pie'
+p6
+asS'def'
+p7
+(lp8
+S'deaf'
+p9
+assS'unresolved_abbreviations'
+p10
+(dp11
+S'unres'
+p12
+(dp13
+S'this_sym_is_unres'
+p14
+I1
+sS'this_sym_is_unres_too'
+p15
+I1
+ssS'f'
+(dp16
+S'f_name2'
+p17
+I1
+sS'f_name'
+p18
+I1
+ssS'abspath'
+p19
+(dp20
+S'abspath'
+p21
+I1
+ssS'atanh'
+p22
+(dp23
+S'atanh'
+p24
+I1
+ssS'abbrev'
+p25
+(dp26
+S'this_sym_has_an_other_abbrev'
+p27
+I1
+ssS'y'
+(dp28
+S'y'
+I1
+ssS'x'
+(dp29
+S'x'
+I1
+ssS'dyear'
+p30
+(dp31
+S'accept2dyear'
+p32
+I1
+sssS'symbol_sources_read'
+p33
+(lp34
+S'C:\\Documents and Settings\\desileta\\My Documents\\workspace\\VCode\\Data\\TestData\\test_py_std_sym.py'
+p35
+aS'C:\\Documents and Settings\\desileta\\My Documents\\workspace\\VCode\\Data\\TestData\\test_C_Cpp_std_sym.cpp'
+p36
+asS'abbreviations'
+p37
+(dp38
+sS'extra_expansions'
+p39
+(dp40
+sS'version'
+p41
+I5
+sS'acronyms'
+p42
+(dp43
+S'cgi'
+p44
+I1
+sS'xml'
+p45
+I1
+sS'tty'
+p46
+I1
+sS'http'
+p47
+I1
+sS'uid'
+p48
+I1
+sS'url'
+p49
+I1
+sS'ip'
+p50
+I1
+sS'py'
+p51
+I1
+sS'smtp'
+p52
+I1
+sS'eol'
+p53
+I1
+sS'db'
+p54
+I1
+sS'uu'
+p55
+I1
+sS'rgb'
+p56
+I1
+sS'html'
+p57
+I1
+sS'io'
+p58
+I1
+sS'gid'
+p59
+I1
+sS'pty'
+p60
+I1
+sS'dtd'
+p61
+I1
+sS'os'
+p62
+I1
+sS'osf'
+p63
+I1
+sS'nntp'
+p64
+I1
+ssS'symbol_info'
+p65
+(dp66
+S'move'
+p67
+(iSymDict
+SymbolInfo
+p68
+(dp69
+S'spoken_forms'
+p70
+(lp71
+S'move'
+p72
+asbsS'horiz_pos'
+p73
+(iSymDict
+SymbolInfo
+p74
+(dp75
+g70
+(lp76
+S'horiz pos'
+p77
+aS'horiz position'
+p78
+aS'horiz positioning'
+p79
+aS'horizontal pos'
+p80
+aS'horizontal position'
+p81
+aS'horizontal positioning'
+p82
+aS'horizontally pos'
+p83
+aS'horizontally position'
+p84
+aS'horizontally positioning'
+p85
+asbsS'accept'
+p86
+(iSymDict
+SymbolInfo
+p87
+(dp88
+S'spoken_forms'
+p89
+(lp90
+g86
+asbsS'cosh'
+p91
+(iSymDict
+SymbolInfo
+p92
+(dp93
+g89
+(lp94
+S'hyperbolic cosine'
+p95
+aS'cosine H.'
+p96
+aS'cos H.'
+p97
+aS'cosh'
+p98
+asbsg18
+(iSymDict
+SymbolInfo
+p99
+(dp100
+g70
+(lp101
+S'F. name'
+p102
+asbsS'tan'
+p103
+(iSymDict
+SymbolInfo
+p104
+(dp105
+g89
+(lp106
+S'tangent'
+p107
+ag103
+asbsg32
+(iSymDict
+SymbolInfo
+p108
+(dp109
+g89
+(lp110
+S'accept two D. year'
+p111
+aS'accept 2 dyear'
+p112
+asbsS'asin'
+p113
+(iSymDict
+SymbolInfo
+p114
+(dp115
+g89
+(lp116
+S'A. sine'
+p117
+aS'arc sine'
+p118
+aS'asin'
+p119
+asbsg14
+(iSymDict
+SymbolInfo
+p120
+(dp121
+g70
+(lp122
+S'this sym is unres'
+p123
+aS'this symbol is unres'
+p124
+asbsS'log'
+p125
+(iSymDict
+SymbolInfo
+p126
+(dp127
+g89
+(lp128
+g125
+aS'logarithm'
+p129
+asbsS'fabs'
+p130
+(iSymDict
+SymbolInfo
+p131
+(dp132
+g89
+(lp133
+S'F. abs'
+p134
+aS'F.  absolute'
+p135
+aS'F. absolute value'
+p136
+aS'float abs'
+p137
+aS'float absolute'
+p138
+aS'float absolute value'
+p139
+aS'fabs'
+p140
+asbsS'floor'
+p141
+(iSymDict
+SymbolInfo
+p142
+(dp143
+g89
+(lp144
+g141
+asbsg24
+(iSymDict
+SymbolInfo
+p145
+(dp146
+g89
+(lp147
+S'A. tan H.'
+p148
+aS'arc tan H.'
+p149
+aS'arc tangent H.'
+p150
+aS'hyperbolic arc tangent'
+p151
+ag22
+asbsg15
+(iSymDict
+SymbolInfo
+p152
+(dp153
+g70
+(lp154
+S'this sym is unres too'
+p155
+aS'this symbol is unres too'
+p156
+asbsS'sqrt'
+p157
+(iSymDict
+SymbolInfo
+p158
+(dp159
+g89
+(lp160
+S'square root'
+p161
+aS'sqirt'
+p162
+aS'sqrt'
+p163
+asbsS'__abs__'
+p164
+(iSymDict
+SymbolInfo
+p165
+(dp166
+g89
+(lp167
+S'underscore abs'
+p168
+aS'underscore absolute'
+p169
+aS'underscore absolute value'
+p170
+aS'abs'
+p171
+asbsS'access'
+p172
+(iSymDict
+SymbolInfo
+p173
+(dp174
+g89
+(lp175
+g172
+asbsS'THIS_SYMBOL_WAS_PARSED_FROM_test_C_Cpp_std_sym'
+p176
+(iSymDict
+SymbolInfo
+p177
+(dp178
+g89
+(lp179
+S'this symbol was parsed from test C. C. plus plus standard sym'
+p180
+aS'this symbol was parsed from test C. C. plus plus standard symbol'
+p181
+aS'this symbol was parsed from test C. C. plus plus std sym'
+p182
+aS'this symbol was parsed from test C. C. plus plus std symbol'
+p183
+aS'this symbol was parsed from test C. cpp standard sym'
+p184
+aS'this symbol was parsed from test C. cpp standard symbol'
+p185
+aS'this symbol was parsed from test C. cpp std sym'
+p186
+aS'this symbol was parsed from test C. cpp std symbol'
+p187
+asbsS'abs'
+p188
+(iSymDict
+SymbolInfo
+p189
+(dp190
+g89
+(lp191
+g188
+aS'absolute'
+p192
+aS'absolute value'
+p193
+asbsS'void'
+p194
+(iSymDict
+SymbolInfo
+p195
+(dp196
+g70
+(lp197
+S'void'
+p198
+asbsS'log10'
+p199
+(iSymDict
+SymbolInfo
+p200
+(dp201
+g89
+(lp202
+S'log 10'
+p203
+aS'log base 10'
+p204
+aS'logarithm base 10'
+p205
+asbsS'sin'
+p206
+(iSymDict
+SymbolInfo
+p207
+(dp208
+g89
+(lp209
+S'sine'
+p210
+aS'sin'
+p211
+asbsS'float'
+p212
+(iSymDict
+SymbolInfo
+p213
+(dp214
+g70
+(lp215
+S'float'
+p216
+asbsS'move_vert'
+p217
+(iSymDict
+SymbolInfo
+p218
+(dp219
+g70
+(lp220
+S'move vert'
+p221
+aS'move vertical'
+p222
+aS'move vertically'
+p223
+asbsS'str'
+p224
+(iSymDict
+SymbolInfo
+p225
+(dp226
+g89
+(lp227
+S'string'
+p228
+aS'S. T. R.'
+p229
+aS'str'
+p230
+asbsS'atan'
+p231
+(iSymDict
+SymbolInfo
+p232
+(dp233
+g89
+(lp234
+S'A. tan'
+p235
+aS'arc tangent'
+p236
+aS'arc tan'
+p237
+aS'atan'
+p238
+asbsS'API_function'
+p239
+(iSymDict
+SymbolInfo
+p240
+(dp241
+g70
+(lp242
+S'A. P. I. function'
+p243
+aS'API function'
+p244
+asbsg21
+(iSymDict
+SymbolInfo
+p245
+(dp246
+g89
+(lp247
+S'abs path'
+p248
+aS'absolute path'
+p249
+ag19
+asbsS'acquire'
+p250
+(iSymDict
+SymbolInfo
+p251
+(dp252
+g89
+(lp253
+g250
+asbsS'repr'
+p254
+(iSymDict
+SymbolInfo
+p255
+(dp256
+g89
+(lp257
+S'rep'
+p258
+aS'representation'
+p259
+aS'repr'
+p260
+aS'represent'
+p261
+asbsS'len'
+p262
+(iSymDict
+SymbolInfo
+p263
+(dp264
+g89
+(lp265
+S'length'
+p266
+aS'len'
+p267
+asbsS'ceil'
+p268
+(iSymDict
+SymbolInfo
+p269
+(dp270
+g89
+(lp271
+S'ceiling'
+p272
+aS'ceil'
+p273
+asbsg17
+(iSymDict
+SymbolInfo
+p274
+(dp275
+g70
+(lp276
+S'F. name 2'
+p277
+asbsS'sinh'
+p278
+(iSymDict
+SymbolInfo
+p279
+(dp280
+g89
+(lp281
+S'hyperbolic sine'
+p282
+aS'sine H.'
+p283
+aS'sinch'
+p284
+aS'sinh'
+p285
+asbsS'move_horiz'
+p286
+(iSymDict
+SymbolInfo
+p287
+(dp288
+g70
+(lp289
+S'move horiz'
+p290
+aS'move horizontal'
+p291
+aS'move horizontally'
+p292
+asbsS'cos'
+p293
+(iSymDict
+SymbolInfo
+p294
+(dp295
+g89
+(lp296
+g293
+aS'cosine'
+p297
+asbsS'tanh'
+p298
+(iSymDict
+SymbolInfo
+p299
+(dp300
+g89
+(lp301
+S'hyperbolic tangent'
+p302
+aS'tan H.'
+p303
+aS'tanh'
+p304
+asbsS'type'
+p305
+(iSymDict
+SymbolInfo
+p306
+(dp307
+g89
+(lp308
+g305
+asbsg27
+(iSymDict
+SymbolInfo
+p309
+(dp310
+g70
+(lp311
+S'this sym has an other abbrev'
+p312
+aS'this symbol has an other abbrev'
+p313
+asbsS'atan2'
+p314
+(iSymDict
+SymbolInfo
+p315
+(dp316
+g89
+(lp317
+S'A. tan 2'
+p318
+aS'arc tangent 2'
+p319
+aS'arc tan 2'
+p320
+aS'atan 2'
+p321
+asbsS'THIS_SYMBOL_WAS_PARSED_FROM_test_py_std_sym'
+p322
+(iSymDict
+SymbolInfo
+p323
+(dp324
+g89
+(lp325
+S'this symbol was parsed from test P. Y. standard sym'
+p326
+aS'this symbol was parsed from test P. Y. standard symbol'
+p327
+aS'this symbol was parsed from test P. Y. std sym'
+p328
+aS'this symbol was parsed from test P. Y. std symbol'
+p329
+aS'this symbol was parsed from test pie standard sym'
+p330
+aS'this symbol was parsed from test pie standard symbol'
+p331
+aS'this symbol was parsed from test pie std sym'
+p332
+aS'this symbol was parsed from test pie std symbol'
+p333
+aS'this symbol was parsed from test py standard sym'
+p334
+aS'this symbol was parsed from test py standard symbol'
+p335
+aS'this symbol was parsed from test py std sym'
+p336
+aS'this symbol was parsed from test py std symbol'
+p337
+aS'this symbol was parsed from test python standard sym'
+p338
+aS'this symbol was parsed from test python standard symbol'
+p339
+aS'this symbol was parsed from test python std sym'
+p340
+aS'this symbol was parsed from test python std symbol'
+p341
+asbsS'exp'
+p342
+(iSymDict
+SymbolInfo
+p343
+(dp344
+g89
+(lp345
+S'exponential'
+p346
+aS'exp'
+p347
+asbsS'y'
+(iSymDict
+SymbolInfo
+p348
+(dp349
+g70
+(lp350
+S'Y.'
+p351
+asbsS'x'
+(iSymDict
+SymbolInfo
+p352
+(dp353
+g70
+(lp354
+S'X.'
+p355
+asbsS'acos'
+p356
+(iSymDict
+SymbolInfo
+p357
+(dp358
+g89
+(lp359
+S'A. cos'
+p360
+aS'arc cos'
+p361
+aS'arc cosine'
+p362
+aS'acos'
+p363
+asbssS'spoken_form_info'
+p364
+(iWordTrie
+WordTrie
+p365
+(dp366
+S'branches'
+p367
+(dp368
+S'represent'
+p369
+(iWordTrie
+WordTrie
+p370
+(dp371
+g367
+(dp372
+sS'value'
+p373
+(lp374
+g254
+asbsS'square'
+p375
+(iWordTrie
+WordTrie
+p376
+(dp377
+g367
+(dp378
+S'root'
+p379
+(iWordTrie
+WordTrie
+p380
+(dp381
+g367
+(dp382
+sg373
+(lp383
+g157
+asbssg373
+NsbsS'underscore'
+p384
+(iWordTrie
+WordTrie
+p385
+(dp386
+g367
+(dp387
+S'abs'
+p388
+(iWordTrie
+WordTrie
+p389
+(dp390
+g367
+(dp391
+sg373
+(lp392
+g164
+asbsS'absolute'
+p393
+(iWordTrie
+WordTrie
+p394
+(dp395
+g367
+(dp396
+S'value'
+p397
+(iWordTrie
+WordTrie
+p398
+(dp399
+g367
+(dp400
+sg373
+(lp401
+g164
+asbssg373
+(lp402
+g164
+asbssg373
+NsbsS'float'
+p403
+(iWordTrie
+WordTrie
+p404
+(dp405
+g367
+(dp406
+S'abs'
+p407
+(iWordTrie
+WordTrie
+p408
+(dp409
+g367
+(dp410
+sg373
+(lp411
+g130
+asbsS'absolute'
+p412
+(iWordTrie
+WordTrie
+p413
+(dp414
+g367
+(dp415
+S'value'
+p416
+(iWordTrie
+WordTrie
+p417
+(dp418
+g367
+(dp419
+sg373
+(lp420
+g130
+asbssg373
+(lp421
+g130
+asbssg373
+(lp422
+g212
+asbsS'accept'
+p423
+(iWordTrie
+WordTrie
+p424
+(dp425
+g367
+(dp426
+S'2'
+(iWordTrie
+WordTrie
+p427
+(dp428
+g367
+(dp429
+S'dyear'
+p430
+(iWordTrie
+WordTrie
+p431
+(dp432
+g367
+(dp433
+sg373
+(lp434
+g32
+asbssg373
+NsbsS'two'
+p435
+(iWordTrie
+WordTrie
+p436
+(dp437
+g367
+(dp438
+S'd'
+(iWordTrie
+WordTrie
+p439
+(dp440
+g367
+(dp441
+S'year'
+p442
+(iWordTrie
+WordTrie
+p443
+(dp444
+g367
+(dp445
+sg373
+(lp446
+g32
+asbssg373
+Nsbssg373
+Nsbssg373
+(lp447
+g86
+asbsS'cosh'
+p448
+(iWordTrie
+WordTrie
+p449
+(dp450
+g367
+(dp451
+sg373
+(lp452
+g91
+asbsS'arc'
+p453
+(iWordTrie
+WordTrie
+p454
+(dp455
+g367
+(dp456
+S'tan'
+p457
+(iWordTrie
+WordTrie
+p458
+(dp459
+g367
+(dp460
+S'h'
+(iWordTrie
+WordTrie
+p461
+(dp462
+g367
+(dp463
+sg373
+(lp464
+g24
+asbsS'2'
+(iWordTrie
+WordTrie
+p465
+(dp466
+g367
+(dp467
+sg373
+(lp468
+g314
+asbssg373
+(lp469
+g231
+asbsS'cosine'
+p470
+(iWordTrie
+WordTrie
+p471
+(dp472
+g367
+(dp473
+sg373
+(lp474
+g356
+asbsS'tangent'
+p475
+(iWordTrie
+WordTrie
+p476
+(dp477
+g367
+(dp478
+S'h'
+(iWordTrie
+WordTrie
+p479
+(dp480
+g367
+(dp481
+sg373
+(lp482
+g24
+asbsS'2'
+(iWordTrie
+WordTrie
+p483
+(dp484
+g367
+(dp485
+sg373
+(lp486
+g314
+asbssg373
+(lp487
+g231
+asbsS'cos'
+p488
+(iWordTrie
+WordTrie
+p489
+(dp490
+g367
+(dp491
+sg373
+(lp492
+g356
+asbsS'sine'
+p493
+(iWordTrie
+WordTrie
+p494
+(dp495
+g367
+(dp496
+sg373
+(lp497
+g113
+asbssg373
+NsbsS'tan'
+p498
+(iWordTrie
+WordTrie
+p499
+(dp500
+g367
+(dp501
+S'h'
+(iWordTrie
+WordTrie
+p502
+(dp503
+g367
+(dp504
+sg373
+(lp505
+g298
+asbssg373
+(lp506
+g103
+asbsS'absolute'
+p507
+(iWordTrie
+WordTrie
+p508
+(dp509
+g367
+(dp510
+S'path'
+p511
+(iWordTrie
+WordTrie
+p512
+(dp513
+g367
+(dp514
+sg373
+(lp515
+g21
+asbsS'value'
+p516
+(iWordTrie
+WordTrie
+p517
+(dp518
+g367
+(dp519
+sg373
+(lp520
+g188
+asbssg373
+(lp521
+g188
+asbsS'asin'
+p522
+(iWordTrie
+WordTrie
+p523
+(dp524
+g367
+(dp525
+sg373
+(lp526
+g113
+asbsS'horiz'
+p527
+(iWordTrie
+WordTrie
+p528
+(dp529
+S'branches'
+p530
+(dp531
+S'position'
+p532
+(iWordTrie
+WordTrie
+p533
+(dp534
+g530
+(dp535
+sS'value'
+p536
+(lp537
+g73
+asbsS'positioning'
+p538
+(iWordTrie
+WordTrie
+p539
+(dp540
+g530
+(dp541
+sg536
+(lp542
+g73
+asbsS'pos'
+p543
+(iWordTrie
+WordTrie
+p544
+(dp545
+g530
+(dp546
+sg536
+(lp547
+g73
+asbssg536
+NsbsS'log'
+p548
+(iWordTrie
+WordTrie
+p549
+(dp550
+g367
+(dp551
+S'10'
+p552
+(iWordTrie
+WordTrie
+p553
+(dp554
+g367
+(dp555
+sg373
+(lp556
+g199
+asbsS'base'
+p557
+(iWordTrie
+WordTrie
+p558
+(dp559
+g367
+(dp560
+S'10'
+p561
+(iWordTrie
+WordTrie
+p562
+(dp563
+g367
+(dp564
+sg373
+(lp565
+g199
+asbssg373
+Nsbssg373
+(lp566
+g125
+asbsS'fabs'
+p567
+(iWordTrie
+WordTrie
+p568
+(dp569
+g367
+(dp570
+sg373
+(lp571
+g130
+asbsS'hyperbolic'
+p572
+(iWordTrie
+WordTrie
+p573
+(dp574
+g367
+(dp575
+S'arc'
+p576
+(iWordTrie
+WordTrie
+p577
+(dp578
+g367
+(dp579
+S'tangent'
+p580
+(iWordTrie
+WordTrie
+p581
+(dp582
+g367
+(dp583
+sg373
+(lp584
+g24
+asbssg373
+NsbsS'cosine'
+p585
+(iWordTrie
+WordTrie
+p586
+(dp587
+g367
+(dp588
+sg373
+(lp589
+g91
+asbsS'tangent'
+p590
+(iWordTrie
+WordTrie
+p591
+(dp592
+g367
+(dp593
+sg373
+(lp594
+g298
+asbsS'sine'
+p595
+(iWordTrie
+WordTrie
+p596
+(dp597
+g367
+(dp598
+sg373
+(lp599
+g278
+asbssg373
+NsbsS'rep'
+p600
+(iWordTrie
+WordTrie
+p601
+(dp602
+g367
+(dp603
+sg373
+(lp604
+g254
+asbsS'atanh'
+p605
+(iWordTrie
+WordTrie
+p606
+(dp607
+g367
+(dp608
+sg373
+(lp609
+g24
+asbsS'sqirt'
+p610
+(iWordTrie
+WordTrie
+p611
+(dp612
+g367
+(dp613
+sg373
+(lp614
+g157
+asbsS'sqrt'
+p615
+(iWordTrie
+WordTrie
+p616
+(dp617
+g367
+(dp618
+sg373
+(lp619
+g157
+asbsS'access'
+p620
+(iWordTrie
+WordTrie
+p621
+(dp622
+g367
+(dp623
+sg373
+(lp624
+g172
+asbsS'abs'
+p625
+(iWordTrie
+WordTrie
+p626
+(dp627
+g367
+(dp628
+S'path'
+p629
+(iWordTrie
+WordTrie
+p630
+(dp631
+g367
+(dp632
+sg373
+(lp633
+g21
+asbssg373
+(lp634
+g164
+ag188
+asbsS'void'
+p635
+(iWordTrie
+WordTrie
+p636
+(dp637
+g530
+(dp638
+sg536
+(lp639
+g194
+asbsS'type'
+p640
+(iWordTrie
+WordTrie
+p641
+(dp642
+g367
+(dp643
+sg373
+(lp644
+g305
+asbsS'sin'
+p645
+(iWordTrie
+WordTrie
+p646
+(dp647
+g367
+(dp648
+sg373
+(lp649
+g206
+asbsS'a'
+(iWordTrie
+WordTrie
+p650
+(dp651
+g367
+(dp652
+S'p'
+(iWordTrie
+WordTrie
+p653
+(dp654
+g530
+(dp655
+S'i'
+(iWordTrie
+WordTrie
+p656
+(dp657
+g530
+(dp658
+S'function'
+p659
+(iWordTrie
+WordTrie
+p660
+(dp661
+g530
+(dp662
+sg536
+(lp663
+g239
+asbssg536
+Nsbssg536
+NsbsS'tan'
+p664
+(iWordTrie
+WordTrie
+p665
+(dp666
+g367
+(dp667
+S'h'
+(iWordTrie
+WordTrie
+p668
+(dp669
+g367
+(dp670
+sg373
+(lp671
+g24
+asbsS'2'
+(iWordTrie
+WordTrie
+p672
+(dp673
+g367
+(dp674
+sg373
+(lp675
+g314
+asbssg373
+(lp676
+g231
+asbsS'sine'
+p677
+(iWordTrie
+WordTrie
+p678
+(dp679
+g367
+(dp680
+sg373
+(lp681
+g113
+asbsS'cos'
+p682
+(iWordTrie
+WordTrie
+p683
+(dp684
+g367
+(dp685
+sg373
+(lp686
+g356
+asbssg373
+NsbsS'ceiling'
+p687
+(iWordTrie
+WordTrie
+p688
+(dp689
+g367
+(dp690
+sg373
+(lp691
+g268
+asbsS'move'
+p692
+(iWordTrie
+WordTrie
+p693
+(dp694
+g530
+(dp695
+S'horizontally'
+p696
+(iWordTrie
+WordTrie
+p697
+(dp698
+g530
+(dp699
+sg536
+(lp700
+g286
+asbsS'vert'
+p701
+(iWordTrie
+WordTrie
+p702
+(dp703
+g530
+(dp704
+sg536
+(lp705
+g217
+asbsS'vertical'
+p706
+(iWordTrie
+WordTrie
+p707
+(dp708
+g530
+(dp709
+sg536
+(lp710
+g217
+asbsS'vertically'
+p711
+(iWordTrie
+WordTrie
+p712
+(dp713
+g530
+(dp714
+sg536
+(lp715
+g217
+asbsS'horizontal'
+p716
+(iWordTrie
+WordTrie
+p717
+(dp718
+g530
+(dp719
+sg536
+(lp720
+g286
+asbsS'horiz'
+p721
+(iWordTrie
+WordTrie
+p722
+(dp723
+g530
+(dp724
+sg536
+(lp725
+g286
+asbssg536
+(lp726
+g67
+asbsS'string'
+p727
+(iWordTrie
+WordTrie
+p728
+(dp729
+g367
+(dp730
+sg373
+(lp731
+g224
+asbsS'atan'
+p732
+(iWordTrie
+WordTrie
+p733
+(dp734
+g367
+(dp735
+S'2'
+(iWordTrie
+WordTrie
+p736
+(dp737
+g367
+(dp738
+sg373
+(lp739
+g314
+asbssg373
+(lp740
+g231
+asbsS'horizontally'
+p741
+(iWordTrie
+WordTrie
+p742
+(dp743
+g530
+(dp744
+S'position'
+p745
+(iWordTrie
+WordTrie
+p746
+(dp747
+g530
+(dp748
+sg536
+(lp749
+g73
+asbsS'positioning'
+p750
+(iWordTrie
+WordTrie
+p751
+(dp752
+g530
+(dp753
+sg536
+(lp754
+g73
+asbsS'pos'
+p755
+(iWordTrie
+WordTrie
+p756
+(dp757
+g530
+(dp758
+sg536
+(lp759
+g73
+asbssg536
+NsbsS's'
+(iWordTrie
+WordTrie
+p760
+(dp761
+g367
+(dp762
+S't'
+(iWordTrie
+WordTrie
+p763
+(dp764
+g367
+(dp765
+S'r'
+(iWordTrie
+WordTrie
+p766
+(dp767
+g367
+(dp768
+sg373
+(lp769
+g224
+asbssg373
+Nsbssg373
+NsbsS'abspath'
+p770
+(iWordTrie
+WordTrie
+p771
+(dp772
+g367
+(dp773
+sg373
+(lp774
+g21
+asbsS'acquire'
+p775
+(iWordTrie
+WordTrie
+p776
+(dp777
+g367
+(dp778
+sg373
+(lp779
+g250
+asbsS'repr'
+p780
+(iWordTrie
+WordTrie
+p781
+(dp782
+g367
+(dp783
+sg373
+(lp784
+g254
+asbsS'len'
+p785
+(iWordTrie
+WordTrie
+p786
+(dp787
+g367
+(dp788
+sg373
+(lp789
+g262
+asbsS'ceil'
+p790
+(iWordTrie
+WordTrie
+p791
+(dp792
+g367
+(dp793
+sg373
+(lp794
+g268
+asbsS'tangent'
+p795
+(iWordTrie
+WordTrie
+p796
+(dp797
+g367
+(dp798
+sg373
+(lp799
+g103
+asbsS'floor'
+p800
+(iWordTrie
+WordTrie
+p801
+(dp802
+g367
+(dp803
+sg373
+(lp804
+g141
+asbsS'sinh'
+p805
+(iWordTrie
+WordTrie
+p806
+(dp807
+g367
+(dp808
+sg373
+(lp809
+g278
+asbsS'x'
+(iWordTrie
+WordTrie
+p810
+(dp811
+g530
+(dp812
+sg536
+(lp813
+S'x'
+asbsS'horizontal'
+p814
+(iWordTrie
+WordTrie
+p815
+(dp816
+g530
+(dp817
+S'position'
+p818
+(iWordTrie
+WordTrie
+p819
+(dp820
+g530
+(dp821
+sg536
+(lp822
+g73
+asbsS'positioning'
+p823
+(iWordTrie
+WordTrie
+p824
+(dp825
+g530
+(dp826
+sg536
+(lp827
+g73
+asbsS'pos'
+p828
+(iWordTrie
+WordTrie
+p829
+(dp830
+g530
+(dp831
+sg536
+(lp832
+g73
+asbssg536
+NsbsS'sine'
+p833
+(iWordTrie
+WordTrie
+p834
+(dp835
+g367
+(dp836
+S'h'
+(iWordTrie
+WordTrie
+p837
+(dp838
+g367
+(dp839
+sg373
+(lp840
+g278
+asbssg373
+(lp841
+g206
+asbsS'logarithm'
+p842
+(iWordTrie
+WordTrie
+p843
+(dp844
+g367
+(dp845
+S'base'
+p846
+(iWordTrie
+WordTrie
+p847
+(dp848
+g367
+(dp849
+S'10'
+p850
+(iWordTrie
+WordTrie
+p851
+(dp852
+g367
+(dp853
+sg373
+(lp854
+g199
+asbssg373
+Nsbssg373
+(lp855
+g125
+asbsS'cos'
+p856
+(iWordTrie
+WordTrie
+p857
+(dp858
+g367
+(dp859
+S'h'
+(iWordTrie
+WordTrie
+p860
+(dp861
+g367
+(dp862
+sg373
+(lp863
+g91
+asbssg373
+(lp864
+g293
+asbsS'sinch'
+p865
+(iWordTrie
+WordTrie
+p866
+(dp867
+g367
+(dp868
+sg373
+(lp869
+g278
+asbsS'exponential'
+p870
+(iWordTrie
+WordTrie
+p871
+(dp872
+g367
+(dp873
+sg373
+(lp874
+g342
+asbsS'tanh'
+p875
+(iWordTrie
+WordTrie
+p876
+(dp877
+g367
+(dp878
+sg373
+(lp879
+g298
+asbsS'this'
+p880
+(iWordTrie
+WordTrie
+p881
+(dp882
+g367
+(dp883
+S'symbol'
+p884
+(iWordTrie
+WordTrie
+p885
+(dp886
+g367
+(dp887
+S'is'
+p888
+(iWordTrie
+WordTrie
+p889
+(dp890
+g530
+(dp891
+S'unres'
+p892
+(iWordTrie
+WordTrie
+p893
+(dp894
+g530
+(dp895
+S'too'
+p896
+(iWordTrie
+WordTrie
+p897
+(dp898
+g530
+(dp899
+sg536
+(lp900
+g15
+asbssg536
+(lp901
+g14
+asbssg536
+NsbsS'has'
+p902
+(iWordTrie
+WordTrie
+p903
+(dp904
+g530
+(dp905
+S'an'
+p906
+(iWordTrie
+WordTrie
+p907
+(dp908
+g530
+(dp909
+S'other'
+p910
+(iWordTrie
+WordTrie
+p911
+(dp912
+g530
+(dp913
+S'abbrev'
+p914
+(iWordTrie
+WordTrie
+p915
+(dp916
+g530
+(dp917
+sg536
+(lp918
+g27
+asbssg536
+Nsbssg536
+Nsbssg536
+NsbsS'was'
+p919
+(iWordTrie
+WordTrie
+p920
+(dp921
+g367
+(dp922
+S'parsed'
+p923
+(iWordTrie
+WordTrie
+p924
+(dp925
+g367
+(dp926
+S'from'
+p927
+(iWordTrie
+WordTrie
+p928
+(dp929
+g367
+(dp930
+S'test'
+p931
+(iWordTrie
+WordTrie
+p932
+(dp933
+g367
+(dp934
+S'python'
+p935
+(iWordTrie
+WordTrie
+p936
+(dp937
+g367
+(dp938
+S'std'
+p939
+(iWordTrie
+WordTrie
+p940
+(dp941
+g367
+(dp942
+S'symbol'
+p943
+(iWordTrie
+WordTrie
+p944
+(dp945
+g367
+(dp946
+sg373
+(lp947
+g322
+asbsS'sym'
+p948
+(iWordTrie
+WordTrie
+p949
+(dp950
+g367
+(dp951
+sg373
+(lp952
+g322
+asbssg373
+NsbsS'standard'
+p953
+(iWordTrie
+WordTrie
+p954
+(dp955
+g367
+(dp956
+S'symbol'
+p957
+(iWordTrie
+WordTrie
+p958
+(dp959
+g367
+(dp960
+sg373
+(lp961
+g322
+asbsS'sym'
+p962
+(iWordTrie
+WordTrie
+p963
+(dp964
+g367
+(dp965
+sg373
+(lp966
+g322
+asbssg373
+Nsbssg373
+NsbsS'p'
+(iWordTrie
+WordTrie
+p967
+(dp968
+g367
+(dp969
+S'y'
+(iWordTrie
+WordTrie
+p970
+(dp971
+g367
+(dp972
+S'std'
+p973
+(iWordTrie
+WordTrie
+p974
+(dp975
+g367
+(dp976
+S'symbol'
+p977
+(iWordTrie
+WordTrie
+p978
+(dp979
+g367
+(dp980
+sg373
+(lp981
+g322
+asbsS'sym'
+p982
+(iWordTrie
+WordTrie
+p983
+(dp984
+g367
+(dp985
+sg373
+(lp986
+g322
+asbssg373
+NsbsS'standard'
+p987
+(iWordTrie
+WordTrie
+p988
+(dp989
+g367
+(dp990
+S'symbol'
+p991
+(iWordTrie
+WordTrie
+p992
+(dp993
+g367
+(dp994
+sg373
+(lp995
+g322
+asbsS'sym'
+p996
+(iWordTrie
+WordTrie
+p997
+(dp998
+g367
+(dp999
+sg373
+(lp1000
+g322
+asbssg373
+Nsbssg373
+Nsbssg373
+NsbsS'c'
+(iWordTrie
+WordTrie
+p1001
+(dp1002
+g367
+(dp1003
+S'cpp'
+p1004
+(iWordTrie
+WordTrie
+p1005
+(dp1006
+g367
+(dp1007
+S'std'
+p1008
+(iWordTrie
+WordTrie
+p1009
+(dp1010
+g367
+(dp1011
+S'symbol'
+p1012
+(iWordTrie
+WordTrie
+p1013
+(dp1014
+g367
+(dp1015
+sg373
+(lp1016
+g176
+asbsS'sym'
+p1017
+(iWordTrie
+WordTrie
+p1018
+(dp1019
+g367
+(dp1020
+sg373
+(lp1021
+g176
+asbssg373
+NsbsS'standard'
+p1022
+(iWordTrie
+WordTrie
+p1023
+(dp1024
+g367
+(dp1025
+S'symbol'
+p1026
+(iWordTrie
+WordTrie
+p1027
+(dp1028
+g367
+(dp1029
+sg373
+(lp1030
+g176
+asbsS'sym'
+p1031
+(iWordTrie
+WordTrie
+p1032
+(dp1033
+g367
+(dp1034
+sg373
+(lp1035
+g176
+asbssg373
+Nsbssg373
+NsbsS'c'
+(iWordTrie
+WordTrie
+p1036
+(dp1037
+g367
+(dp1038
+S'plus'
+p1039
+(iWordTrie
+WordTrie
+p1040
+(dp1041
+g367
+(dp1042
+S'plus'
+p1043
+(iWordTrie
+WordTrie
+p1044
+(dp1045
+g367
+(dp1046
+S'std'
+p1047
+(iWordTrie
+WordTrie
+p1048
+(dp1049
+g367
+(dp1050
+S'symbol'
+p1051
+(iWordTrie
+WordTrie
+p1052
+(dp1053
+g367
+(dp1054
+sg373
+(lp1055
+g176
+asbsS'sym'
+p1056
+(iWordTrie
+WordTrie
+p1057
+(dp1058
+g367
+(dp1059
+sg373
+(lp1060
+g176
+asbssg373
+NsbsS'standard'
+p1061
+(iWordTrie
+WordTrie
+p1062
+(dp1063
+g367
+(dp1064
+S'symbol'
+p1065
+(iWordTrie
+WordTrie
+p1066
+(dp1067
+g367
+(dp1068
+sg373
+(lp1069
+g176
+asbsS'sym'
+p1070
+(iWordTrie
+WordTrie
+p1071
+(dp1072
+g367
+(dp1073
+sg373
+(lp1074
+g176
+asbssg373
+Nsbssg373
+Nsbssg373
+Nsbssg373
+Nsbssg373
+NsbsS'py'
+p1075
+(iWordTrie
+WordTrie
+p1076
+(dp1077
+g367
+(dp1078
+S'std'
+p1079
+(iWordTrie
+WordTrie
+p1080
+(dp1081
+g367
+(dp1082
+S'symbol'
+p1083
+(iWordTrie
+WordTrie
+p1084
+(dp1085
+g367
+(dp1086
+sg373
+(lp1087
+g322
+asbsS'sym'
+p1088
+(iWordTrie
+WordTrie
+p1089
+(dp1090
+g367
+(dp1091
+sg373
+(lp1092
+g322
+asbssg373
+NsbsS'standard'
+p1093
+(iWordTrie
+WordTrie
+p1094
+(dp1095
+g367
+(dp1096
+S'symbol'
+p1097
+(iWordTrie
+WordTrie
+p1098
+(dp1099
+g367
+(dp1100
+sg373
+(lp1101
+g322
+asbsS'sym'
+p1102
+(iWordTrie
+WordTrie
+p1103
+(dp1104
+g367
+(dp1105
+sg373
+(lp1106
+g322
+asbssg373
+Nsbssg373
+NsbsS'pie'
+p1107
+(iWordTrie
+WordTrie
+p1108
+(dp1109
+g367
+(dp1110
+S'std'
+p1111
+(iWordTrie
+WordTrie
+p1112
+(dp1113
+g367
+(dp1114
+S'symbol'
+p1115
+(iWordTrie
+WordTrie
+p1116
+(dp1117
+g367
+(dp1118
+sg373
+(lp1119
+g322
+asbsS'sym'
+p1120
+(iWordTrie
+WordTrie
+p1121
+(dp1122
+g367
+(dp1123
+sg373
+(lp1124
+g322
+asbssg373
+NsbsS'standard'
+p1125
+(iWordTrie
+WordTrie
+p1126
+(dp1127
+g367
+(dp1128
+S'symbol'
+p1129
+(iWordTrie
+WordTrie
+p1130
+(dp1131
+g367
+(dp1132
+sg373
+(lp1133
+g322
+asbsS'sym'
+p1134
+(iWordTrie
+WordTrie
+p1135
+(dp1136
+g367
+(dp1137
+sg373
+(lp1138
+g322
+asbssg373
+Nsbssg373
+Nsbssg373
+Nsbssg373
+Nsbssg373
+Nsbssg373
+Nsbssg373
+NsbsS'sym'
+p1139
+(iWordTrie
+WordTrie
+p1140
+(dp1141
+g530
+(dp1142
+S'is'
+p1143
+(iWordTrie
+WordTrie
+p1144
+(dp1145
+g530
+(dp1146
+S'unres'
+p1147
+(iWordTrie
+WordTrie
+p1148
+(dp1149
+g530
+(dp1150
+S'too'
+p1151
+(iWordTrie
+WordTrie
+p1152
+(dp1153
+g530
+(dp1154
+sg536
+(lp1155
+g15
+asbssg536
+(lp1156
+g14
+asbssg536
+NsbsS'has'
+p1157
+(iWordTrie
+WordTrie
+p1158
+(dp1159
+g530
+(dp1160
+S'an'
+p1161
+(iWordTrie
+WordTrie
+p1162
+(dp1163
+g530
+(dp1164
+S'other'
+p1165
+(iWordTrie
+WordTrie
+p1166
+(dp1167
+g530
+(dp1168
+S'abbrev'
+p1169
+(iWordTrie
+WordTrie
+p1170
+(dp1171
+g530
+(dp1172
+sg536
+(lp1173
+g27
+asbssg536
+Nsbssg536
+Nsbssg536
+Nsbssg536
+Nsbssg373
+NsbsS'cosine'
+p1174
+(iWordTrie
+WordTrie
+p1175
+(dp1176
+g367
+(dp1177
+S'h'
+(iWordTrie
+WordTrie
+p1178
+(dp1179
+g367
+(dp1180
+sg373
+(lp1181
+g91
+asbssg373
+(lp1182
+g293
+asbsS'f'
+(iWordTrie
+WordTrie
+p1183
+(dp1184
+g367
+(dp1185
+S'abs'
+p1186
+(iWordTrie
+WordTrie
+p1187
+(dp1188
+g367
+(dp1189
+sg373
+(lp1190
+g130
+asbsS'name'
+p1191
+(iWordTrie
+WordTrie
+p1192
+(dp1193
+g530
+(dp1194
+S'2'
+(iWordTrie
+WordTrie
+p1195
+(dp1196
+g530
+(dp1197
+sg536
+(lp1198
+g17
+asbssg536
+(lp1199
+g18
+asbsS'absolute'
+p1200
+(iWordTrie
+WordTrie
+p1201
+(dp1202
+g367
+(dp1203
+S'value'
+p1204
+(iWordTrie
+WordTrie
+p1205
+(dp1206
+g367
+(dp1207
+sg373
+(lp1208
+g130
+asbssg373
+(lp1209
+g130
+asbssg373
+NsbsS'length'
+p1210
+(iWordTrie
+WordTrie
+p1211
+(dp1212
+g367
+(dp1213
+sg373
+(lp1214
+g262
+asbsS'api'
+p1215
+(iWordTrie
+WordTrie
+p1216
+(dp1217
+g530
+(dp1218
+S'function'
+p1219
+(iWordTrie
+WordTrie
+p1220
+(dp1221
+g530
+(dp1222
+sg536
+(lp1223
+g239
+asbssg536
+NsbsS'str'
+p1224
+(iWordTrie
+WordTrie
+p1225
+(dp1226
+g367
+(dp1227
+sg373
+(lp1228
+g224
+asbsS'exp'
+p1229
+(iWordTrie
+WordTrie
+p1230
+(dp1231
+g367
+(dp1232
+sg373
+(lp1233
+g342
+asbsS'y'
+(iWordTrie
+WordTrie
+p1234
+(dp1235
+g530
+(dp1236
+sg536
+(lp1237
+S'y'
+asbsS'representation'
+p1238
+(iWordTrie
+WordTrie
+p1239
+(dp1240
+g367
+(dp1241
+sg373
+(lp1242
+g254
+asbsS'acos'
+p1243
+(iWordTrie
+WordTrie
+p1244
+(dp1245
+g367
+(dp1246
+sg373
+(lp1247
+g356
+asbssg373
+NsbsS'alt_abbreviations'
+p1248
+(dp1249
+g261
+(lp1250
+g254
+asS'stream get C.'
+p1251
+(lp1252
+S'sgetc'
+p1253
+asS'get environment'
+p1254
+(lp1255
+S'getenv'
+p1256
+asS'file scan F.'
+p1257
+(lp1258
+S'fscanf'
+p1259
+asS'global'
+p1260
+(lp1261
+S'glob'
+p1262
+asS'X. S. get N.'
+p1263
+(lp1264
+S'xsgetn'
+p1265
+asS'string scan F.'
+p1266
+(lp1267
+S'sscanf'
+p1268
+asS'F. M. T. flags'
+p1269
+(lp1270
+S'fmtflags'
+p1271
+asS'stir C. P. Y.'
+p1272
+(lp1273
+S'strcpy'
+p1274
+asS'millisecond'
+p1275
+(lp1276
+S'msec'
+p1277
+asS'F. write'
+p1278
+(lp1279
+S'fwrite'
+p1280
+asS'W. day'
+p1281
+(lp1282
+S'wday'
+p1283
+asS'calculate'
+p1284
+(lp1285
+S'calc'
+p1286
+asS'P. bump'
+p1287
+(lp1288
+S'pbump'
+p1289
+asS'arg V.'
+p1290
+(lp1291
+S'argv'
+p1292
+asS'string format time'
+p1293
+(lp1294
+S'strftime'
+p1295
+asS'environment'
+p1296
+(lp1297
+S'env'
+p1298
+aS'environ'
+p1299
+asS'include'
+p1300
+(lp1301
+S'inc'
+p1302
+aS'incl'
+p1303
+asS'ascii time'
+p1304
+(lp1305
+S'asctime'
+p1306
+asS'get character'
+p1307
+(lp1308
+S'getchar'
+p1309
+asg228
+(lp1310
+g224
+asS'sig seg V.'
+p1311
+(lp1312
+S'sigsegv'
+p1313
+asS'S. put N.'
+p1314
+(lp1315
+S'sputn'
+p1316
+asS'F. set pause'
+p1317
+(lp1318
+S'fsetpos'
+p1319
+asS'pub seek offset'
+p1320
+(lp1321
+S'pubseekoff'
+p1322
+asS'get bump'
+p1323
+(lp1324
+S'gbump'
+p1325
+asS'get W.'
+p1326
+(lp1327
+S'getw'
+p1328
+asS'standard lib'
+p1329
+(lp1330
+S'stdlib'
+p1331
+asS'string R. char'
+p1332
+(lp1333
+S'strrchr'
+p1334
+asS'put C.'
+p1335
+(lp1336
+S'putc'
+p1337
+asS'is uppercase'
+p1338
+(lp1339
+S'isupper'
+p1340
+asS'F. tell'
+p1341
+(lp1342
+S'ftell'
+p1343
+asS'set state'
+p1344
+(lp1345
+S'setstate'
+p1346
+asS'public seek position'
+p1347
+(lp1348
+S'pubseekpos'
+p1349
+asS'F. puts'
+p1350
+(lp1351
+S'fputs'
+p1352
+asS'string concatenate'
+p1353
+(lp1354
+S'strcat'
+p1355
+asS'strip break'
+p1356
+(lp1357
+S'strpbrk'
+p1358
+asS'stir tool'
+p1359
+(lp1360
+S'strtoul'
+p1361
+asS'tan hyperbolic'
+p1362
+(lp1363
+g298
+asS'show position'
+p1364
+(lp1365
+S'showpos'
+p1366
+asS'format flags'
+p1367
+(lp1368
+g1271
+asS'string token'
+p1369
+(lp1370
+S'strtok'
+p1371
+asS'stir char'
+p1372
+(lp1373
+S'strchr'
+p1374
+asS'file E. O. F.'
+p1375
+(lp1376
+S'feof'
+p1377
+asS'seed rand'
+p1378
+(lp1379
+S'srand'
+p1380
+asS'F. gets'
+p1381
+(lp1382
+S'fgets'
+p1383
+asS'is graphical'
+p1384
+(lp1385
+S'isgraph'
+p1386
+asS'regular expression'
+p1387
+(lp1388
+S'regexp'
+p1389
+aS'regex'
+p1390
+aS'reg'
+p1391
+aS'rexp'
+p1392
+asS'seek P.'
+p1393
+(lp1394
+S'seekp'
+p1395
+asS'second'
+p1396
+(lp1397
+S'sec'
+p1398
+asS'file pause type'
+p1399
+(lp1400
+S'fpos_t'
+p1401
+asS'file get C.'
+p1402
+(lp1403
+S'fgetc'
+p1404
+asS'standard library'
+p1405
+(lp1406
+g1331
+asS'link'
+p1407
+(lp1408
+S'lnk'
+p1409
+asS'string X. form'
+p1410
+(lp1411
+S'strxfrm'
+p1412
+asS'unsigned long to ascii'
+p1413
+(lp1414
+S'ultoa'
+p1415
+asS'G. convert'
+p1416
+(lp1417
+S'gcvt'
+p1418
+asS'is punked'
+p1419
+(lp1420
+S'ispunct'
+p1421
+asS'no Boolean alpha'
+p1422
+(lp1423
+S'noboolalpha'
+p1424
+asS'lexicographic'
+p1425
+(lp1426
+S'lexicographical'
+p1427
+asS'current'
+p1428
+(lp1429
+S'curr'
+p1430
+aS'cur'
+p1431
+asS'skip W. S.'
+p1432
+(lp1433
+S'skipws'
+p1434
+asS'stern cat'
+p1435
+(lp1436
+S'strncat'
+p1437
+asS'standard deaf'
+p1438
+(lp1439
+S'stddef'
+p1440
+asS'read buff'
+p1441
+(lp1442
+S'rdbuf'
+p1443
+asS'V. print F.'
+p1444
+(lp1445
+S'vprintf'
+p1446
+asS'sig illegal'
+p1447
+(lp1448
+S'sigill'
+p1449
+asS'standard in'
+p1450
+(lp1451
+S'stdin'
+p1452
+asS'unsigned char'
+p1453
+(lp1454
+S'uchar'
+p1455
+asS'modify'
+p1456
+(lp1457
+S'mod'
+p1458
+asS'get locale'
+p1459
+(lp1460
+S'getloc'
+p1461
+asS'studio'
+p1462
+(lp1463
+S'stdio'
+p1464
+asS'string C. P. Y.'
+p1465
+(lp1466
+g1274
+asS'file get position'
+p1467
+(lp1468
+S'fgetpos'
+p1469
+asS'address'
+p1470
+(lp1471
+S'addr'
+p1472
+asS'standard'
+p1473
+(lp1474
+S'std'
+p1475
+asS'change'
+p1476
+(lp1477
+S'chg'
+p1478
+asS'F. print format'
+p1479
+(lp1480
+S'fprintf'
+p1481
+asS'changed'
+p1482
+(lp1483
+g1478
+asS'delimiter'
+p1484
+(lp1485
+S'delim'
+p1486
+asS'L. divide'
+p1487
+(lp1488
+S'ldiv'
+p1489
+asS'stir token'
+p1490
+(lp1491
+g1371
+asS'file seek'
+p1492
+(lp1493
+S'fseek'
+p1494
+asS'read buffer'
+p1495
+(lp1496
+g1443
+asS'string to long'
+p1497
+(lp1498
+S'strtol'
+p1499
+asS'stir Chir'
+p1500
+(lp1501
+g1374
+ag1334
+asS'F. flush'
+p1502
+(lp1503
+S'fflush'
+p1504
+asS'quotient'
+p1505
+(lp1506
+S'quot'
+p1507
+asS'file put character'
+p1508
+(lp1509
+S'fputc'
+p1510
+aS'fputchar'
+p1511
+asS'S. T. D. arg'
+p1512
+(lp1513
+S'stdarg'
+p1514
+asS'divide'
+p1515
+(lp1516
+S'div'
+p1517
+asS'pub imbue'
+p1518
+(lp1519
+S'pubimbue'
+p1520
+asS'S. T. D. out'
+p1521
+(lp1522
+S'stdout'
+p1523
+asS'G. bump'
+p1524
+(lp1525
+g1325
+asS'string compare'
+p1526
+(lp1527
+S'strcmp'
+p1528
+asS'initialize'
+p1529
+(lp1530
+S'init'
+p1531
+asS'string N. cat'
+p1532
+(lp1533
+g1437
+asS'to upper'
+p1534
+(lp1535
+S'toupper'
+p1536
+asS'clock type'
+p1537
+(lp1538
+S'clock_t'
+p1539
+asS'stern comp'
+p1540
+(lp1541
+S'strncmp'
+p1542
+asS'executable'
+p1543
+(lp1544
+S'exec'
+p1545
+asS'in place'
+p1546
+(lp1547
+S'inplace'
+p1548
+asS'E. back'
+p1549
+(lp1550
+S'eback'
+p1551
+asS'public seek pause'
+p1552
+(lp1553
+g1349
+asS'sub routine'
+p1554
+(lp1555
+S'sub'
+p1556
+asS'file read'
+p1557
+(lp1558
+S'fread'
+p1559
+asS'mod float'
+p1560
+(lp1561
+S'modf'
+p1562
+asS'memory'
+p1563
+(lp1564
+S'mem'
+p1565
+asS'U. long'
+p1566
+(lp1567
+S'ulong'
+p1568
+asS'string N. concatenate'
+p1569
+(lp1570
+g1437
+asS'file get S.'
+p1571
+(lp1572
+g1383
+asS'I. O. fully buffered'
+p1573
+(lp1574
+S'iofbf'
+p1575
+asS'U. short'
+p1576
+(lp1577
+S'ushrt'
+p1578
+asS'L. double'
+p1579
+(lp1580
+S'ldbl'
+p1581
+asS'diff time'
+p1582
+(lp1583
+S'difftime'
+p1584
+asS'arc tangent'
+p1585
+(lp1586
+g231
+asS'mem Chir'
+p1587
+(lp1588
+S'memchr'
+p1589
+asS'C. type'
+p1590
+(lp1591
+S'ctype'
+p1592
+asS'pub seek off'
+p1593
+(lp1594
+g1322
+asS'stir compare'
+p1595
+(lp1596
+g1528
+asS'X. S. put N.'
+p1597
+(lp1598
+S'xsputn'
+p1599
+asS'mounted'
+p1600
+(lp1601
+S'mnt'
+p1602
+asS'blocking'
+p1603
+(lp1604
+S'blk'
+p1605
+asS'standard input'
+p1606
+(lp1607
+g1452
+asS'standard argument'
+p1608
+(lp1609
+g1514
+asS'output string stream'
+p1610
+(lp1611
+S'ostringstream'
+p1612
+asS'L. find'
+p1613
+(lp1614
+S'lfind'
+p1615
+asS'var arg'
+p1616
+(lp1617
+S'va'
+p1618
+asS'modified'
+p1619
+(lp1620
+g1458
+asS'stir error'
+p1621
+(lp1622
+S'strerror'
+p1623
+asS'E. put pointer'
+p1624
+(lp1625
+S'epptr'
+p1626
+asS'string reverse char'
+p1627
+(lp1628
+g1334
+asS'rectangle'
+p1629
+(lp1630
+S'rect'
+p1631
+asS'pointer diff type'
+p1632
+(lp1633
+S'ptrdiff_t'
+p1634
+asS'string to U. L.'
+p1635
+(lp1636
+g1361
+asS'example'
+p1637
+(lp1638
+S'ex'
+p1639
+asS'G. count'
+p1640
+(lp1641
+S'gcount'
+p1642
+asS'control'
+p1643
+(lp1644
+S'ctrl'
+p1645
+aS'cntrl'
+p1646
+aS'ctl'
+p1647
+asS'string P. break'
+p1648
+(lp1649
+g1358
+asS'compare'
+p1650
+(lp1651
+S'cmp'
+p1652
+asS'F. put S.'
+p1653
+(lp1654
+g1352
+asS'ask time'
+p1655
+(lp1656
+g1306
+asS'calculation'
+p1657
+(lp1658
+g1286
+asS'attribute'
+p1659
+(lp1660
+S'attr'
+p1661
+asS'stir cat'
+p1662
+(lp1663
+g1355
+asS'string character'
+p1664
+(lp1665
+g1374
+asS'var print F.'
+p1666
+(lp1667
+g1446
+asS'minimum'
+p1668
+(lp1669
+S'min'
+p1670
+asS'get pointer'
+p1671
+(lp1672
+S'gptr'
+p1673
+asS'S. scan F.'
+p1674
+(lp1675
+g1268
+asS'seek position'
+p1676
+(lp1677
+S'seekpos'
+p1678
+asS'set G.'
+p1679
+(lp1680
+S'setg'
+p1681
+asg192
+(lp1682
+g188
+asS'information'
+p1683
+(lp1684
+S'info'
+p1685
+asS'sig interrupt'
+p1686
+(lp1687
+S'sigint'
+p1688
+asS'L. double E. X. P.'
+p1689
+(lp1690
+S'ldexp'
+p1691
+asS'ascii'
+p1692
+(lp1693
+S'asc'
+p1694
+asS'sig terminal'
+p1695
+(lp1696
+S'sigterm'
+p1697
+asS'F. position'
+p1698
+(lp1699
+S'fpos'
+p1700
+asS'to lower'
+p1701
+(lp1702
+S'tolower'
+p1703
+asS'sig'
+p1704
+(lp1705
+g1704
+asS'stir R. char'
+p1706
+(lp1707
+g1334
+asS'E. get pointer'
+p1708
+(lp1709
+S'egptr'
+p1710
+asS'temporary file'
+p1711
+(lp1712
+S'tmpfile'
+p1713
+asS'parameter'
+p1714
+(lp1715
+S'par'
+p1716
+aS'param'
+p1717
+asS'E. val'
+p1718
+(lp1719
+S'eval'
+p1720
+asS'long jump'
+p1721
+(lp1722
+S'longjmp'
+p1723
+asS'put error'
+p1724
+(lp1725
+S'perror'
+p1726
+asS'var print format'
+p1727
+(lp1728
+g1446
+asS'L.'
+p1729
+(lp1730
+S'l'
+asS'standard I. O.'
+p1731
+(lp1732
+g1464
+asS'put character'
+p1733
+(lp1734
+S'putchar'
+p1735
+asS'V. print format'
+p1736
+(lp1737
+g1446
+asS'get char'
+p1738
+(lp1739
+g1309
+asS'string archer'
+p1740
+(lp1741
+g1334
+asS'horizontal'
+p1742
+(lp1743
+S'horiz'
+p1744
+asS'to uppercase'
+p1745
+(lp1746
+g1536
+asS'stir comp'
+p1747
+(lp1748
+g1528
+asS'memory char'
+p1749
+(lp1750
+g1589
+asS'short'
+p1751
+(lp1752
+S'shrt'
+p1753
+asS'documentation'
+p1754
+(lp1755
+S'doc'
+p1756
+asS'stream bump C.'
+p1757
+(lp1758
+S'sbumpc'
+p1759
+asS'element'
+p1760
+(lp1761
+S'elem'
+p1762
+asS'sig ill'
+p1763
+(lp1764
+g1449
+asS'I. O. F. B. F.'
+p1765
+(lp1766
+g1575
+asS'arc cos'
+p1767
+(lp1768
+g356
+asg259
+(lp1769
+g254
+asS'make'
+p1770
+(lp1771
+S'mk'
+p1772
+asS'error range'
+p1773
+(lp1774
+S'erange'
+p1775
+asS'L. divide type'
+p1776
+(lp1777
+S'ldiv_t'
+p1778
+asS'string N. concat'
+p1779
+(lp1780
+g1437
+asS'get LOC'
+p1781
+(lp1782
+g1461
+asS'entity'
+p1783
+(lp1784
+S'ent'
+p1785
+asS'file put char'
+p1786
+(lp1787
+g1511
+asS'interpreter'
+p1788
+(lp1789
+S'interp'
+p1790
+asS'signed char'
+p1791
+(lp1792
+S'schar'
+p1793
+asS'horizontally'
+p1794
+(lp1795
+g1744
+asS'position'
+p1796
+(lp1797
+S'pos'
+p1798
+aS'posn'
+p1799
+asS'group'
+p1800
+(lp1801
+S'gr'
+p1802
+asS'F. pause type'
+p1803
+(lp1804
+g1401
+asS'window'
+p1805
+(lp1806
+S'win'
+p1807
+asS'standard arg'
+p1808
+(lp1809
+g1514
+asS'condition'
+p1810
+(lp1811
+S'cond'
+p1812
+asS'alpha numeric'
+p1813
+(lp1814
+S'alnum'
+p1815
+asS'stir reverse character'
+p1816
+(lp1817
+g1334
+asS'set jump'
+p1818
+(lp1819
+S'setjmp'
+p1820
+asS'I. word'
+p1821
+(lp1822
+S'iword'
+p1823
+asS'seek offset'
+p1824
+(lp1825
+S'seekoff'
+p1826
+asS'string F. time'
+p1827
+(lp1828
+g1295
+asS'is lower'
+p1829
+(lp1830
+S'islower'
+p1831
+asS'python'
+p1832
+(lp1833
+g4
+asS'stern copy'
+p1834
+(lp1835
+S'strncpy'
+p1836
+asS'I. O. full buff'
+p1837
+(lp1838
+g1575
+asS'unsigned long'
+p1839
+(lp1840
+g1568
+asS'data base'
+p1841
+(lp1842
+S'db'
+p1843
+asS'Greenwich mean time'
+p1844
+(lp1845
+S'gmtime'
+p1846
+asS'unsigned character'
+p1847
+(lp1848
+g1455
+asS'execute'
+p1849
+(lp1850
+g1545
+asS'document'
+p1851
+(lp1852
+g1756
+asS'extensible Alloc'
+p1853
+(lp1854
+S'xalloc'
+p1855
+asS'V. string print format'
+p1856
+(lp1857
+S'vsprintf'
+p1858
+asS'stream bump char'
+p1859
+(lp1860
+g1759
+asS'S. next C.'
+p1861
+(lp1862
+S'snextc'
+p1863
+asS'synchronize'
+p1864
+(lp1865
+S'sync'
+p1866
+asS'token'
+p1867
+(lp1868
+S'tok'
+p1869
+asS'file write'
+p1870
+(lp1871
+g1280
+asS'mode'
+p1872
+(lp1873
+g1458
+asS'stream put back C.'
+p1874
+(lp1875
+S'sputbackc'
+p1876
+asS'S. char'
+p1877
+(lp1878
+g1793
+asS'M. time'
+p1879
+(lp1880
+S'mtime'
+p1881
+asS'public set buff'
+p1882
+(lp1883
+S'pubsetbuf'
+p1884
+asS'profile'
+p1885
+(lp1886
+S'prof'
+p1887
+asS'domain'
+p1888
+(lp1889
+S'dom'
+p1890
+asS'terminal I. D.'
+p1891
+(lp1892
+S'termid'
+p1893
+asS'file gets'
+p1894
+(lp1895
+g1383
+asS'I. map'
+p1896
+(lp1897
+S'imap'
+p1898
+asS'stream put char'
+p1899
+(lp1900
+S'sputc'
+p1901
+asS'file put S.'
+p1902
+(lp1903
+g1352
+asS'float mod'
+p1904
+(lp1905
+S'fmod'
+p1906
+asS'stream unget char'
+p1907
+(lp1908
+S'sungetc'
+p1909
+asS'standard definitions'
+p1910
+(lp1911
+g1440
+asS'S. bump char'
+p1912
+(lp1913
+g1759
+asS'U. flow'
+p1914
+(lp1915
+S'uflow'
+p1916
+asS'tell G.'
+p1917
+(lp1918
+S'tellg'
+p1919
+asS'put base'
+p1920
+(lp1921
+S'pbase'
+p1922
+asS'L. div type'
+p1923
+(lp1924
+g1778
+asS'set get'
+p1925
+(lp1926
+g1681
+asS'string Len'
+p1927
+(lp1928
+S'strlen'
+p1929
+asS'file pause'
+p1930
+(lp1931
+g1700
+asS'space'
+p1932
+(lp1933
+S'spc'
+p1934
+asS'temporary'
+p1935
+(lp1936
+S'temp'
+p1937
+aS'tmp'
+p1938
+asS'U. L. to ascii'
+p1939
+(lp1940
+g1415
+asS'content'
+p1941
+(lp1942
+S'cont'
+p1943
+asS'A. cos'
+p1944
+(lp1945
+g356
+asS'F. end of file'
+p1946
+(lp1947
+g1377
+asS'show many char'
+p1948
+(lp1949
+S'showmanyc'
+p1950
+asS'P. word'
+p1951
+(lp1952
+S'pword'
+p1953
+asS'evaluation'
+p1954
+(lp1955
+g1720
+asS'L. search'
+p1956
+(lp1957
+S'lsearch'
+p1958
+asS'foreground'
+p1959
+(lp1960
+S'fg'
+p1961
+asS'dictionary'
+p1962
+(lp1963
+S'dict'
+p1964
+asS'show base'
+p1965
+(lp1966
+S'showbase'
+p1967
+asS'get line'
+p1968
+(lp1969
+S'getline'
+p1970
+asS'F. E. O. F.'
+p1971
+(lp1972
+g1377
+asS'open mode'
+p1973
+(lp1974
+S'openmode'
+p1975
+asS'pub seek position'
+p1976
+(lp1977
+g1349
+asS'S. put char'
+p1978
+(lp1979
+g1901
+asS'seek get'
+p1980
+(lp1981
+S'seekg'
+p1982
+asS'no skip white space'
+p1983
+(lp1984
+S'noskipws'
+p1985
+asS'beginning'
+p1986
+(lp1987
+S'beg'
+p1988
+asS'definition'
+p1989
+(lp1990
+g7
+asS'stir character'
+p1991
+(lp1992
+g1374
+asS'file flush'
+p1993
+(lp1994
+g1504
+asS'transition'
+p1995
+(lp1996
+S'trans'
+p1997
+asS'positioning'
+p1998
+(lp1999
+g1798
+asS'input F. stream'
+p2000
+(lp2001
+S'ifstream'
+p2002
+asg266
+(lp2003
+g262
+aS'l'
+asS'separator'
+p2004
+(lp2005
+S'sep'
+p2006
+asS'sun get C.'
+p2007
+(lp2008
+g1909
+asS'hexadecimal'
+p2009
+(lp2010
+S'hex'
+p2011
+asS'S. T. D. error'
+p2012
+(lp2013
+S'stderr'
+p2014
+asS'file get string'
+p2015
+(lp2016
+g1383
+asS'I. F. stream'
+p2017
+(lp2018
+g2002
+asS'output file stream'
+p2019
+(lp2020
+S'ofstream'
+p2021
+asS'B. search'
+p2022
+(lp2023
+S'bsearch'
+p2024
+asS'F. get C.'
+p2025
+(lp2026
+g1404
+asS'var file print F.'
+p2027
+(lp2028
+S'vfprintf'
+p2029
+asS'number'
+p2030
+(lp2031
+S'no'
+p2032
+aS'num'
+p2033
+asS'signed character'
+p2034
+(lp2035
+g1793
+asS'V. S. print F.'
+p2036
+(lp2037
+g1858
+asS'message'
+p2038
+(lp2039
+S'msg'
+p2040
+asS'string concat'
+p2041
+(lp2042
+g1355
+asS'signal int'
+p2043
+(lp2044
+g1688
+asS'line'
+p2045
+(lp2046
+S'ln'
+p2047
+asS'set locale'
+p2048
+(lp2049
+S'setlocale'
+p2050
+asS'reference'
+p2051
+(lp2052
+S'ref'
+p2053
+asS'service'
+p2054
+(lp2055
+S'srv'
+p2056
+asS'egg pointer'
+p2057
+(lp2058
+g1710
+asS'introduction'
+p2059
+(lp2060
+S'intro'
+p2061
+asS'signal terminal'
+p2062
+(lp2063
+g1697
+asS'system'
+p2064
+(lp2065
+S'sys'
+p2066
+asS'to lowercase'
+p2067
+(lp2068
+g1703
+asS'stir span'
+p2069
+(lp2070
+S'strspn'
+p2071
+asS'A. to I.'
+p2072
+(lp2073
+S'atoi'
+p2074
+asS'sound X.'
+p2075
+(lp2076
+S'soundex'
+p2077
+asS'string print format'
+p2078
+(lp2079
+S'sprintf'
+p2080
+asS'read some'
+p2081
+(lp2082
+S'readsome'
+p2083
+asS'Cal lock'
+p2084
+(lp2085
+S'calloc'
+p2086
+asS'F. get pause'
+p2087
+(lp2088
+g1469
+asS'F. R. E. X. P.'
+p2089
+(lp2090
+S'frexp'
+p2091
+asS'configure'
+p2092
+(lp2093
+S'conf'
+p2094
+aS'config'
+p2095
+asS'seek dir'
+p2096
+(lp2097
+S'seekdir'
+p2098
+asS'C. plus plus'
+p2099
+(lp2100
+S'cpp'
+p2101
+asS'public imbue'
+p2102
+(lp2103
+g1520
+asS'P. base'
+p2104
+(lp2105
+g1922
+asS'translation'
+p2106
+(lp2107
+g1997
+asS'first in first out'
+p2108
+(lp2109
+S'fifo'
+p2110
+asS'string tool'
+p2111
+(lp2112
+g1361
+asS'distance'
+p2113
+(lp2114
+S'dst'
+p2115
+asS'string call'
+p2116
+(lp2117
+S'strcoll'
+p2118
+asS'stir complementary span'
+p2119
+(lp2120
+S'strcspn'
+p2121
+asS'sprint F.'
+p2122
+(lp2123
+g2080
+asS'is hexadecimal digit'
+p2124
+(lp2125
+S'isxdigit'
+p2126
+asS'memory comp'
+p2127
+(lp2128
+S'memcmp'
+p2129
+asS'memory compare'
+p2130
+(lp2131
+g2129
+asS'fie foe'
+p2132
+(lp2133
+g2110
+asS'declare'
+p2134
+(lp2135
+S'decl'
+p2136
+asS'is Al numb'
+p2137
+(lp2138
+S'isalnum'
+p2139
+asS'pub seek pause'
+p2140
+(lp2141
+g1349
+asS'I. G. N.'
+p2142
+(lp2143
+S'ign'
+p2144
+asS'G. M. time'
+p2145
+(lp2146
+g1846
+asS'variable'
+p2147
+(lp2148
+S'var'
+p2149
+asS'increment'
+p2150
+(lp2151
+g1302
+asS'S. T. D. in'
+p2152
+(lp2153
+g1452
+asS'buff size'
+p2154
+(lp2155
+S'bufsiz'
+p2156
+asS'option'
+p2157
+(lp2158
+S'opt'
+p2159
+asS'callback'
+p2160
+(lp2161
+S'cbk'
+p2162
+asS'load double exp'
+p2163
+(lp2164
+g1691
+asS'stir call'
+p2165
+(lp2166
+g2118
+asS'stir to double'
+p2167
+(lp2168
+S'strtod'
+p2169
+asS'F. mod'
+p2170
+(lp2171
+g1906
+asS'F. close'
+p2172
+(lp2173
+S'fclose'
+p2174
+asS'tell P.'
+p2175
+(lp2176
+S'tellp'
+p2177
+asS'A. sine'
+p2178
+(lp2179
+g113
+asS'is space'
+p2180
+(lp2181
+S'isspace'
+p2182
+asS'C. Alloc'
+p2183
+(lp2184
+g2086
+asS'buffer'
+p2185
+(lp2186
+S'buf'
+p2187
+aS'buff'
+p2188
+asS'object'
+p2189
+(lp2190
+S'obj'
+p2191
+asS'float remainder exponent'
+p2192
+(lp2193
+g2091
+asS'end of line'
+p2194
+(lp2195
+S'eol'
+p2196
+asS'mem comp'
+p2197
+(lp2198
+g2129
+asS'signal segment violation'
+p2199
+(lp2200
+g1313
+asS'regular'
+p2201
+(lp2202
+g1391
+asS'connected'
+p2203
+(lp2204
+S'conn'
+p2205
+asS'entry'
+p2206
+(lp2207
+g1785
+asS'device'
+p2208
+(lp2209
+S'dev'
+p2210
+asS'sig F. P. E.'
+p2211
+(lp2212
+S'sigfpe'
+p2213
+asS'S. put back char'
+p2214
+(lp2215
+g1876
+asS'stir format time'
+p2216
+(lp2217
+g1295
+asS'string N. compare'
+p2218
+(lp2219
+g1542
+asS'clear'
+p2220
+(lp2221
+S'clr'
+p2222
+asS'request'
+p2223
+(lp2224
+S'req'
+p2225
+asS'var F. print F.'
+p2226
+(lp2227
+g2029
+asS'F. put char'
+p2228
+(lp2229
+g1511
+asg162
+(lp2230
+g157
+asS'L. D. E. X. P.'
+p2231
+(lp2232
+g1691
+asS'set flag'
+p2233
+(lp2234
+S'setf'
+p2235
+asS'pattern'
+p2236
+(lp2237
+S'pat'
+p2238
+aS'patt'
+p2239
+asS'professional'
+p2240
+(lp2241
+g1887
+asS'sequence'
+p2242
+(lp2243
+S'seq'
+p2244
+asS'var file print format'
+p2245
+(lp2246
+g2029
+asS'arc sine'
+p2247
+(lp2248
+g113
+asS'random'
+p2249
+(lp2250
+S'rand'
+p2251
+asS'synchronous'
+p2252
+(lp2253
+g1866
+asS'F. print F.'
+p2254
+(lp2255
+g1481
+asS'linear find'
+p2256
+(lp2257
+g1615
+asS'V. file print F.'
+p2258
+(lp2259
+g2029
+asS'pointer word'
+p2260
+(lp2261
+g1953
+asS'temp nam'
+p2262
+(lp2263
+S'tmpnam'
+p2264
+asS'stream get N.'
+p2265
+(lp2266
+S'sgetn'
+p2267
+asS'file set pause'
+p2268
+(lp2269
+g1319
+asS'string to double'
+p2270
+(lp2271
+g2169
+asS'implementation'
+p2272
+(lp2273
+S'impl'
+p2274
+asS'string toke'
+p2275
+(lp2276
+g1371
+asS'P. pointer'
+p2277
+(lp2278
+S'pptr'
+p2279
+asS'is graph'
+p2280
+(lp2281
+g1386
+asS'P. back fail'
+p2282
+(lp2283
+S'pbackfail'
+p2284
+asS'string collate'
+p2285
+(lp2286
+g2118
+asS'make time'
+p2287
+(lp2288
+S'mktime'
+p2289
+asS'Boolean alpha'
+p2290
+(lp2291
+S'boolalpha'
+p2292
+asS'temporary name'
+p2293
+(lp2294
+g2264
+aS'tmpname'
+p2295
+asS'un set flag'
+p2296
+(lp2297
+S'unsetf'
+p2298
+asS'permission'
+p2299
+(lp2300
+S'perm'
+p2301
+asS'div type'
+p2302
+(lp2303
+S'div_t'
+p2304
+asS'stir copy'
+p2305
+(lp2306
+g1274
+asS'string transform'
+p2307
+(lp2308
+g1412
+asS'go to'
+p2309
+(lp2310
+S'goto'
+p2311
+asS'operating system'
+p2312
+(lp2313
+S'os'
+p2314
+asS'argument count'
+p2315
+(lp2316
+S'argc'
+p2317
+asS'signal illegal'
+p2318
+(lp2319
+g1449
+asS'file set position'
+p2320
+(lp2321
+g1319
+asS'S. character'
+p2322
+(lp2323
+g1793
+asS'S. random'
+p2324
+(lp2325
+g1380
+asS'exclusive or'
+p2326
+(lp2327
+S'xor'
+p2328
+asS'stir Len'
+p2329
+(lp2330
+g1929
+asS'remove'
+p2331
+(lp2332
+S'rm'
+p2333
+asS'default'
+p2334
+(lp2335
+g7
+asS'tan H.'
+p2336
+(lp2337
+g298
+asS'stir to L.'
+p2338
+(lp2339
+g1499
+asS'time type'
+p2340
+(lp2341
+S'time_t'
+p2342
+asS'set V. buff'
+p2343
+(lp2344
+S'setvbuf'
+p2345
+asS'file pointer'
+p2346
+(lp2347
+S'fp'
+p2348
+asS'available'
+p2349
+(lp2350
+S'avail'
+p2351
+asS'I. O. state'
+p2352
+(lp2353
+S'iostate'
+p2354
+asS'pub sync'
+p2355
+(lp2356
+S'pubsync'
+p2357
+asS'show point'
+p2358
+(lp2359
+S'showpoint'
+p2360
+asS'S. get C.'
+p2361
+(lp2362
+g1253
+asS'relative'
+p2363
+(lp2364
+S'rel'
+p2365
+asS'X. stream get N.'
+p2366
+(lp2367
+g1265
+asS'un set format'
+p2368
+(lp2369
+g2298
+asS'seek G.'
+p2370
+(lp2371
+g1982
+asS'tell get'
+p2372
+(lp2373
+g1919
+asS'get count'
+p2374
+(lp2375
+g1642
+asS'signal F. P. E.'
+p2376
+(lp2377
+g2213
+asS'vertical'
+p2378
+(lp2379
+S'vert'
+p2380
+asS'un set F.'
+p2381
+(lp2382
+g2298
+asS'public sync'
+p2383
+(lp2384
+g2357
+asS'L. div'
+p2385
+(lp2386
+g1489
+asS'stir length'
+p2387
+(lp2388
+g1929
+asS'pointer diff'
+p2389
+(lp2390
+S'ptrdiff'
+p2391
+asS'file scan format'
+p2392
+(lp2393
+g1259
+asS'L. conv'
+p2394
+(lp2395
+S'lconv'
+p2396
+asS'user I. D.'
+p2397
+(lp2398
+S'uid'
+p2399
+asS'no show point'
+p2400
+(lp2401
+S'noshowpoint'
+p2402
+asS'F. scan F.'
+p2403
+(lp2404
+g1259
+asS'string copy'
+p2405
+(lp2406
+g1274
+asS'concatenate'
+p2407
+(lp2408
+S'concat'
+p2409
+asS'stream next C.'
+p2410
+(lp2411
+g1863
+asS'profiling'
+p2412
+(lp2413
+g1887
+asS'is punctuation'
+p2414
+(lp2415
+g1421
+asS'str transform'
+p2416
+(lp2417
+g1412
+asS'screen'
+p2418
+(lp2419
+S'scr'
+p2420
+asS'file tell'
+p2421
+(lp2422
+g1343
+asS'string scan format'
+p2423
+(lp2424
+g1268
+asS'signal term'
+p2425
+(lp2426
+g1697
+asS'temp name'
+p2427
+(lp2428
+g2264
+ag2295
+asS'configuration'
+p2429
+(lp2430
+g2094
+ag2095
+asS'optional'
+p2431
+(lp2432
+g2159
+asS'built in'
+p2433
+(lp2434
+S'builtin'
+p2435
+asS'read state'
+p2436
+(lp2437
+S'rdstate'
+p2438
+asS'var S. print F.'
+p2439
+(lp2440
+g1858
+asS'V. A.'
+p2441
+(lp2442
+g1618
+asS'file get character'
+p2443
+(lp2444
+g1404
+asS'no show pause'
+p2445
+(lp2446
+S'noshowpos'
+p2447
+asS'C. time'
+p2448
+(lp2449
+S'ctime'
+p2450
+asS'string N. comp'
+p2451
+(lp2452
+g1542
+asS'context'
+p2453
+(lp2454
+g1943
+asS'set put'
+p2455
+(lp2456
+S'setp'
+p2457
+asS'U. L. to A.'
+p2458
+(lp2459
+g1415
+asS'string Chir'
+p2460
+(lp2461
+g1374
+asS'standard error'
+p2462
+(lp2463
+g2014
+asS'string cat'
+p2464
+(lp2465
+g1355
+asS'string to D.'
+p2466
+(lp2467
+g2169
+asS'is alphabetic'
+p2468
+(lp2469
+S'isalpha'
+p2470
+asS'character'
+p2471
+(lp2472
+S'char'
+p2473
+aS'chr'
+p2474
+asS'modulo float'
+p2475
+(lp2476
+g1562
+asS'standard out'
+p2477
+(lp2478
+g1523
+asS'stir Todd'
+p2479
+(lp2480
+g2169
+asg210
+(lp2481
+g206
+asS'put bump'
+p2482
+(lp2483
+g1289
+asS'P.'
+p2484
+(lp2485
+S'p'
+asS'string string'
+p2486
+(lp2487
+S'strstr'
+p2488
+asg297
+(lp2489
+g293
+asS'string to unsigned long'
+p2490
+(lp2491
+g1361
+asS'S. T. D. I. O.'
+p2492
+(lp2493
+g1464
+asS'put environment'
+p2494
+(lp2495
+S'putenv'
+p2496
+asS'define'
+p2497
+(lp2498
+g7
+asS'F. get position'
+p2499
+(lp2500
+g1469
+asS'direction'
+p2501
+(lp2502
+S'dir'
+p2503
+asS'general'
+p2504
+(lp2505
+S'gen'
+p2506
+asS'A. to L.'
+p2507
+(lp2508
+S'atol'
+p2509
+asS'seek off'
+p2510
+(lp2511
+g1826
+asS'S. I. G.'
+p2512
+(lp2513
+g1704
+asS'no uppercase'
+p2514
+(lp2515
+S'nouppercase'
+p2516
+asS'argument'
+p2517
+(lp2518
+S'arg'
+p2519
+asS'size type'
+p2520
+(lp2521
+S'size_t'
+p2522
+asS'load double E. X. P.'
+p2523
+(lp2524
+g1691
+asS'put env'
+p2525
+(lp2526
+g2496
+asS'stir collate'
+p2527
+(lp2528
+g2118
+asS'declaration'
+p2529
+(lp2530
+g2136
+asS'signal ill'
+p2531
+(lp2532
+g1449
+asS'sig term'
+p2533
+(lp2534
+g1697
+asS'put char'
+p2535
+(lp2536
+g1735
+asS'exception'
+p2537
+(lp2538
+S'exc'
+p2539
+asS'put pointer'
+p2540
+(lp2541
+g2279
+asS'put W.'
+p2542
+(lp2543
+S'putw'
+p2544
+asS'sig int'
+p2545
+(lp2546
+g1688
+asS'mount'
+p2547
+(lp2548
+g1602
+asS'stir F. time'
+p2549
+(lp2550
+g1295
+asg373
+(lp2551
+S'val'
+p2552
+asS'cursor'
+p2553
+(lp2554
+g1431
+asS'pub set buffer'
+p2555
+(lp2556
+g1884
+asS'get C.'
+p2557
+(lp2558
+S'getc'
+p2559
+asS'stir string'
+p2560
+(lp2561
+g2488
+asS'public seek offset'
+p2562
+(lp2563
+g1322
+asS'P. error'
+p2564
+(lp2565
+g1726
+asS'memory character'
+p2566
+(lp2567
+g1589
+asS'is printable'
+p2568
+(lp2569
+S'isprint'
+p2570
+asS'F. error'
+p2571
+(lp2572
+S'ferror'
+p2573
+asS'seek directory'
+p2574
+(lp2575
+g2098
+asS'un get character'
+p2576
+(lp2577
+S'ungetc'
+p2578
+asS'no unit buff'
+p2579
+(lp2580
+S'nounitbuf'
+p2581
+asS'shirt'
+p2582
+(lp2583
+g1753
+asS'string buffer'
+p2584
+(lp2585
+S'stringbuf'
+p2586
+asS'generic'
+p2587
+(lp2588
+g2506
+asS'file reopen'
+p2589
+(lp2590
+S'freopen'
+p2591
+asS'punctuation'
+p2592
+(lp2593
+S'punc'
+p2594
+aS'punct'
+p2595
+asS'no Boole alpha'
+p2596
+(lp2597
+g1424
+asS'F. get string'
+p2598
+(lp2599
+g1383
+asS'evaluate'
+p2600
+(lp2601
+g1720
+asS'octal'
+p2602
+(lp2603
+S'oct'
+p2604
+asS'seek put'
+p2605
+(lp2606
+g1395
+asS'year day'
+p2607
+(lp2608
+S'yday'
+p2609
+asS'G. pointer'
+p2610
+(lp2611
+g1673
+asS'stir R. character'
+p2612
+(lp2613
+g1334
+asS'argument value'
+p2614
+(lp2615
+g1292
+asS'stream next char'
+p2616
+(lp2617
+g1863
+asS'E. P. pointer'
+p2618
+(lp2619
+g1626
+asS'un get C.'
+p2620
+(lp2621
+g2578
+asS'F. convert'
+p2622
+(lp2623
+S'fcvt'
+p2624
+asS'pub set buff'
+p2625
+(lp2626
+g1884
+asS'F. seek'
+p2627
+(lp2628
+g1494
+asS'extensible allocate'
+p2629
+(lp2630
+g1855
+asS'at exit'
+p2631
+(lp2632
+S'atexit'
+p2633
+asS'undefined'
+p2634
+(lp2635
+S'undef'
+p2636
+asS'mem move'
+p2637
+(lp2638
+S'memmove'
+p2639
+asS'expression'
+p2640
+(lp2641
+S'expr'
+p2642
+asS'input output'
+p2643
+(lp2644
+S'io'
+p2645
+asS'X. allocate'
+p2646
+(lp2647
+g1855
+asS'F. put C.'
+p2648
+(lp2649
+g1510
+asS'command'
+p2650
+(lp2651
+S'cmd'
+p2652
+asS'string stir'
+p2653
+(lp2654
+g2488
+asS'S. get N.'
+p2655
+(lp2656
+g2267
+asS'stream put N.'
+p2657
+(lp2658
+g1316
+asS'stir C. span'
+p2659
+(lp2660
+g2121
+asS'free open'
+p2661
+(lp2662
+g2591
+asS'locale conventions'
+p2663
+(lp2664
+g2396
+aS'localeconv'
+p2665
+asS'get E. N. V.'
+p2666
+(lp2667
+g1256
+asS'show pause'
+p2668
+(lp2669
+g1366
+asS'protocol'
+p2670
+(lp2671
+S'proto'
+p2672
+asS'background'
+p2673
+(lp2674
+S'bg'
+p2675
+asS'file put string'
+p2676
+(lp2677
+g1352
+asS'string print F.'
+p2678
+(lp2679
+g2080
+asS'string R. character'
+p2680
+(lp2681
+g1334
+asS'is print'
+p2682
+(lp2683
+g2570
+asS'signal abort'
+p2684
+(lp2685
+S'sigabrt'
+p2686
+asS'arg C.'
+p2687
+(lp2688
+g2317
+asS'S. T. D. lib'
+p2689
+(lp2690
+g1331
+asS'public seek off'
+p2691
+(lp2692
+g1322
+asS'alternative'
+p2693
+(lp2694
+S'alt'
+p2695
+asS'previous'
+p2696
+(lp2697
+S'prev'
+p2698
+asS'long divide'
+p2699
+(lp2700
+g1489
+asS'is X. digit'
+p2701
+(lp2702
+g2126
+asS'put back fail'
+p2703
+(lp2704
+g2284
+asS'mod F.'
+p2705
+(lp2706
+g1562
+asS'V. string print F.'
+p2707
+(lp2708
+g1858
+asS'file buff'
+p2709
+(lp2710
+S'filebuf'
+p2711
+asS'S. rand'
+p2712
+(lp2713
+g1380
+asS'unit buff'
+p2714
+(lp2715
+S'unitbuf'
+p2716
+asS'source'
+p2717
+(lp2718
+S'src'
+p2719
+asS'A. to F.'
+p2720
+(lp2721
+S'atof'
+p2722
+asS'signal interrupt'
+p2723
+(lp2724
+g1688
+asS'hyperbolic sine'
+p2725
+(lp2726
+g278
+asS'set P.'
+p2727
+(lp2728
+g2457
+asS'no skip W. S.'
+p2729
+(lp2730
+g1985
+asS'S. get char'
+p2731
+(lp2732
+g1253
+asS'file buffer'
+p2733
+(lp2734
+g2711
+asS'transformation'
+p2735
+(lp2736
+g1997
+asS'buffer size'
+p2737
+(lp2738
+g2156
+asS'G. C. V. T.'
+p2739
+(lp2740
+g1418
+asS'format'
+p2741
+(lp2742
+S'fmt'
+p2743
+asS'read'
+p2744
+(lp2745
+S'rd'
+p2746
+asS'term I. D.'
+p2747
+(lp2748
+g1893
+asS'copy format'
+p2749
+(lp2750
+S'copyfmt'
+p2751
+asS'temporary nam'
+p2752
+(lp2753
+g2264
+asS'L. D. exp'
+p2754
+(lp2755
+g1691
+asS'copy F. M. T.'
+p2756
+(lp2757
+g2751
+asS'get env'
+p2758
+(lp2759
+g1256
+asS'file put C.'
+p2760
+(lp2761
+g1510
+asS'sig abort'
+p2762
+(lp2763
+g2686
+asS'integer'
+p2764
+(lp2765
+S'int'
+p2766
+asS'unique'
+p2767
+(lp2768
+S'uniq'
+p2769
+asS'name'
+p2770
+(lp2771
+S'nam'
+p2772
+asS'vertically'
+p2773
+(lp2774
+g2380
+asS'stir concatenate'
+p2775
+(lp2776
+g1355
+asS'S. T. D. definitions'
+p2777
+(lp2778
+g1440
+asS'stir to D.'
+p2779
+(lp2780
+g2169
+asS'signal'
+p2781
+(lp2782
+g1704
+asS'string span'
+p2783
+(lp2784
+g2071
+asS'server'
+p2785
+(lp2786
+S'serv'
+p2787
+ag2056
+asS'ignore'
+p2788
+(lp2789
+g2144
+asS'square root'
+p2790
+(lp2791
+g157
+asS'string stream'
+p2792
+(lp2793
+S'stringstream'
+p2794
+asS'long div type'
+p2795
+(lp2796
+g1778
+asS'string buff'
+p2797
+(lp2798
+g2586
+asS'string char'
+p2799
+(lp2800
+g1374
+asS'set V. buffer'
+p2801
+(lp2802
+g2345
+asS'stream unget character'
+p2803
+(lp2804
+g1909
+asS'I. string stream'
+p2805
+(lp2806
+S'istringstream'
+p2807
+asS'L. to A.'
+p2808
+(lp2809
+S'ltoa'
+p2810
+asS'is hex digit'
+p2811
+(lp2812
+g2126
+asS'hyperbolic tan'
+p2813
+(lp2814
+g298
+asS'is digit'
+p2815
+(lp2816
+S'isdigit'
+p2817
+asS'S. put C.'
+p2818
+(lp2819
+g1901
+asS'group I. D.'
+p2820
+(lp2821
+S'gid'
+p2822
+asS'begin'
+p2823
+(lp2824
+g1988
+asS'set format'
+p2825
+(lp2826
+g2235
+asS'Y. day'
+p2827
+(lp2828
+g2609
+asS'stir toke'
+p2829
+(lp2830
+g1371
+asS'sine H.'
+p2831
+(lp2832
+g278
+asS'error number'
+p2833
+(lp2834
+S'errno'
+p2835
+asS'stream unget C.'
+p2836
+(lp2837
+g1909
+asS'transport'
+p2838
+(lp2839
+g1997
+asS'signal seg V.'
+p2840
+(lp2841
+g1313
+asS'memory move'
+p2842
+(lp2843
+g2639
+asS'string error'
+p2844
+(lp2845
+g1623
+asS'is alpha'
+p2846
+(lp2847
+g2470
+asS'F. reopen'
+p2848
+(lp2849
+g2591
+asS'show many C.'
+p2850
+(lp2851
+g1950
+asS'stream put back char'
+p2852
+(lp2853
+g1876
+asS'temp file'
+p2854
+(lp2855
+g1713
+asS'str X. form'
+p2856
+(lp2857
+g1412
+asS'symbol'
+p2858
+(lp2859
+S'sym'
+p2860
+asS'if stream'
+p2861
+(lp2862
+g2002
+asS'var string print format'
+p2863
+(lp2864
+g1858
+asS'locate'
+p2865
+(lp2866
+S'loc'
+p2867
+asS'stir to unsigned long'
+p2868
+(lp2869
+g1361
+asS'is control'
+p2870
+(lp2871
+S'iscntrl'
+p2872
+asS'O. string stream'
+p2873
+(lp2874
+g1612
+asS'string pointer break'
+p2875
+(lp2876
+g1358
+asS'end put pointer'
+p2877
+(lp2878
+g1626
+asS'S. print F.'
+p2879
+(lp2880
+g2080
+asS'U. char'
+p2881
+(lp2882
+g1455
+asS'S. put back C.'
+p2883
+(lp2884
+g1876
+asS'unsigned long to A.'
+p2885
+(lp2886
+g1415
+asS'locale conv'
+p2887
+(lp2888
+g2665
+asS'set buf'
+p2889
+(lp2890
+S'setbuf'
+p2891
+asS'string complementary span'
+p2892
+(lp2893
+g2121
+asS'string length'
+p2894
+(lp2895
+g1929
+asS'optimize'
+p2896
+(lp2897
+g2159
+asS'input string stream'
+p2898
+(lp2899
+g2807
+asS'socket'
+p2900
+(lp2901
+S'sock'
+p2902
+asS'var string print F.'
+p2903
+(lp2904
+g1858
+asS'package'
+p2905
+(lp2906
+S'pkg'
+p2907
+asS'column'
+p2908
+(lp2909
+S'col'
+p2910
+asS'X. or'
+p2911
+(lp2912
+g2328
+asS'location'
+p2913
+(lp2914
+g2867
+asS'arc cosine'
+p2915
+(lp2916
+g356
+asS'H.'
+p2917
+(lp2918
+S'h'
+asS'dialog'
+p2919
+(lp2920
+S'dlg'
+p2921
+asS'seek pause'
+p2922
+(lp2923
+g1678
+asS'O. file stream'
+p2924
+(lp2925
+g2021
+asS'linear search'
+p2926
+(lp2927
+g1958
+asS'block'
+p2928
+(lp2929
+g1605
+asS'long divide type'
+p2930
+(lp2931
+g1778
+asS'average'
+p2932
+(lp2933
+S'avg'
+p2934
+asS'skip white space'
+p2935
+(lp2936
+g1434
+asS'L. D. B. L. '
+p2937
+(lp2938
+g1581
+asS'F. position type'
+p2939
+(lp2940
+g1401
+asS'S. T. D. deaf'
+p2941
+(lp2942
+g1440
+asS'output F. stream'
+p2943
+(lp2944
+g2021
+asS'string to L.'
+p2945
+(lp2946
+g1499
+asS'no show position'
+p2947
+(lp2948
+g2447
+asS'is daylight savings time'
+p2949
+(lp2950
+S'isdst'
+p2951
+asS'file error'
+p2952
+(lp2953
+g2573
+asS'stir stir'
+p2954
+(lp2955
+g2488
+asS'is D. S. T.'
+p2956
+(lp2957
+g2951
+asS'no unit buffer'
+p2958
+(lp2959
+g2581
+asS'statistics'
+p2960
+(lp2961
+S'stat'
+p2962
+asS'long double'
+p2963
+(lp2964
+g1581
+asS'Boole alpha'
+p2965
+(lp2966
+g2292
+asS'initial'
+p2967
+(lp2968
+g1531
+asS'transform'
+p2969
+(lp2970
+g1997
+asS'tell put'
+p2971
+(lp2972
+g2177
+asS'un get'
+p2973
+(lp2974
+S'unget'
+p2975
+asS'file close'
+p2976
+(lp2977
+g2174
+asS'unsigned short'
+p2978
+(lp2979
+g1578
+asS'integer word'
+p2980
+(lp2981
+g1823
+asS'stream put C.'
+p2982
+(lp2983
+g1901
+asS'fraction'
+p2984
+(lp2985
+S'frac'
+p2986
+asS'end get pointer'
+p2987
+(lp2988
+g1710
+asS'put back'
+p2989
+(lp2990
+S'putback'
+p2991
+asS'function'
+p2992
+(lp2993
+S'func'
+p2994
+aS'fct'
+p2995
+asS'month day'
+p2996
+(lp2997
+S'mday'
+p2998
+asS'error no'
+p2999
+(lp3000
+g2835
+asS'L. double exp'
+p3001
+(lp3002
+g1691
+asS'N.'
+p3003
+(lp3004
+S'n'
+asS'mantissa'
+p3005
+(lp3006
+S'mant'
+p3007
+asS'C. error'
+p3008
+(lp3009
+S'cerr'
+p3010
+asS'stir to long'
+p3011
+(lp3012
+g1499
+asS'hyperbolic tangent'
+p3013
+(lp3014
+g298
+asS'file print F.'
+p3015
+(lp3016
+g1481
+asS'set F.'
+p3017
+(lp3018
+g2235
+asS'E. convert'
+p3019
+(lp3020
+S'ecvt'
+p3021
+asS'prototype'
+p3022
+(lp3023
+g2672
+asS'set buffer'
+p3024
+(lp3025
+g2891
+asS'M. day'
+p3026
+(lp3027
+g2998
+asS'float modulo'
+p3028
+(lp3029
+g1906
+asS'stir talk'
+p3030
+(lp3031
+g1371
+asS'stir tall'
+p3032
+(lp3033
+g1499
+asS'maximum'
+p3034
+(lp3035
+S'max'
+p3036
+asS'string reverse character'
+p3037
+(lp3038
+g1334
+asS'insert'
+p3039
+(lp3040
+S'ins'
+p3041
+asS'sig segment V.'
+p3042
+(lp3043
+g1313
+asS'X. Alloc'
+p3044
+(lp3045
+g1855
+asS'F. get S.'
+p3046
+(lp3047
+g1383
+asS'static'
+p3048
+(lp3049
+g2962
+asS'S. bump C.'
+p3050
+(lp3051
+g1759
+asS'calculated'
+p3052
+(lp3053
+g1286
+asS'stream get char'
+p3054
+(lp3055
+g1253
+asS'weekday'
+p3056
+(lp3057
+g1283
+asS'defined'
+p3058
+(lp3059
+g7
+asS'file get pause'
+p3060
+(lp3061
+g1469
+asS'X. stream put N.'
+p3062
+(lp3063
+g1599
+asS'long div'
+p3064
+(lp3065
+g1489
+asS'asynchronous'
+p3066
+(lp3067
+S'asyn'
+p3068
+aS'async'
+p3069
+asS'fur exp'
+p3070
+(lp3071
+g2091
+asS'V. F. print F.'
+p3072
+(lp3073
+g2029
+asS'input file stream'
+p3074
+(lp3075
+g2002
+asS'O. F. stream'
+p3076
+(lp3077
+g2021
+asS'public set buffer'
+p3078
+(lp3079
+g1884
+asS'file print format'
+p3080
+(lp3081
+g1481
+asS'unit buffer'
+p3082
+(lp3083
+g2716
+asS'un get char'
+p3084
+(lp3085
+g2578
+asS'stir concat'
+p3086
+(lp3087
+g1355
+asS'offset of'
+p3088
+(lp3089
+S'offsetof'
+p3090
+asS'string N. copy'
+p3091
+(lp3092
+g1836
+asS'string comp'
+p3093
+(lp3094
+g1528
+asS'clear error'
+p3095
+(lp3096
+S'clearerr'
+p3097
+asS'test'
+p3098
+(lp3099
+S'tst'
+p3100
+asS'log in'
+p3101
+(lp3102
+S'login'
+p3103
+asS'alternate'
+p3104
+(lp3105
+g2695
+asS'is upper'
+p3106
+(lp3107
+g1340
+asS'S. T. D. library'
+p3108
+(lp3109
+g1331
+asS'is alphanumeric'
+p3110
+(lp3111
+g2139
+asS'stir reverse char'
+p3112
+(lp3113
+g1334
+asS'mem compare'
+p3114
+(lp3115
+g2129
+asS'undefine'
+p3116
+(lp3117
+g2636
+asS'directory'
+p3118
+(lp3119
+g2503
+asS'E. G. pointer'
+p3120
+(lp3121
+g1710
+asS'S. scan format'
+p3122
+(lp3123
+g1268
+asS'I. to A.'
+p3124
+(lp3125
+S'itoa'
+p3126
+asS'included'
+p3127
+(lp3128
+g1303
+asS'M. K. time'
+p3129
+(lp3130
+g2289
+asS'E. range'
+p3131
+(lp3132
+g1775
+asS'no show base'
+p3133
+(lp3134
+S'noshowbase'
+p3135
+asS'is lowercase'
+p3136
+(lp3137
+g1831
+asS'local time'
+p3138
+(lp3139
+S'localtime'
+p3140
+asS'stir to U. L.'
+p3141
+(lp3142
+g1361
+asg284
+(lp3143
+g278
+asS'seed random'
+p3144
+(lp3145
+g1380
+asS'file end of file'
+p3146
+(lp3147
+g1377
+asS'S. T. D. argument'
+p3148
+(lp3149
+g1514
+asS'strip bark'
+p3150
+(lp3151
+g1358
+asS'V. file print format'
+p3152
+(lp3153
+g2029
+asS'F. pause'
+p3154
+(lp3155
+g1700
+ass.
